@@ -1,10 +1,13 @@
 ## Welcome to my page
 
-You can use the [editor on GitHub](https://github.com/nilsness/home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/nilsness/home/edit/gh-pages/index.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## My projects:
+- Basket ball score [Scoreboard](https://nilsness.github.io/basketball-score)
 
-### Markdown
+
+### About me:
+My name is Nils
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
