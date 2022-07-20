@@ -23,6 +23,9 @@ I enjoy football ⚽, skiing, technology and learning new stuff
 - I used to work in IT in a larg accounting firm
 - I have a masters degree in Technology management and a bachelors' Business development
 
+
+
+### Other
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
