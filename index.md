@@ -11,6 +11,7 @@ You can use the [editor on GitHub](https://github.com/nilsness/home/edit/gh-page
 My name is Nils 👨🏻
 30 years old
 from Trondheim Norway
+I enjoy football ⚽, skiing, technology and learning new stuff
 
 ## What do I do
 - I work on digitizing business processes in a small nation-wide bank in Norway.
@@ -18,7 +19,9 @@ from Trondheim Norway
 - - I know som basic web-development
 - - and som basic Python
 
-
+## What have I done
+- I used to work in IT in a larg accounting firm
+- I have a masters degree in Technology management and a bachelors' Business development
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
