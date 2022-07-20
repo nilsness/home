@@ -3,7 +3,7 @@
 You can use the [editor on GitHub](https://github.com/nilsness/home/edit/gh-pages/index.md)
 
 ## My projects:
-- **Basketball scoreboard** [Scoreboard](https://nilsness.github.io/basketball-score/basket.html)
+- **Basketball scoreboard**: [Scoreboard](https://nilsness.github.io/basketball-score/basket.html)
 - **Cardgame scorecount**
 
 
