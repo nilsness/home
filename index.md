@@ -6,28 +6,19 @@ You can use the [editor on GitHub](https://github.com/nilsness/home/edit/gh-page
 - **Basketball scoreboard** [Scoreboard](https://nilsness.github.io/basketball-score/basket.html)
 - **Cardgame scorecount**
 
-### About me:
-My name is Nils
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# About me:
+My name is Nils 👨🏻
+30 years old
+from Trondheim Norway
 
-```markdown
-Syntax highlighted code block
+## What do I do
+- I work on digitizing business processes in a small nation-wide bank in Norway.
+- I also enjoy learning new stuff in my spare time, and that's mainly why i try to learn som coding
+- - I know som basic web-development
+- - and som basic Python
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
